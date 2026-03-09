@@ -1,0 +1,66 @@
+/* Custom CSS untuk Netmon App */
+
+/* Content Wrapper */
+.content-wrapper {
+    background-color: #f4f6f9;
+}
+
+/* Card Styling */
+.card {
+    border-radius: 10px;
+    box-shadow: 0 0 1px rgba(0,0,0,.125), 0 1px 3px rgba(0,0,0,.2);
+}
+
+.card-header {
+    background-color: #fff;
+    border-bottom: 1px solid #e9ecef;
+}
+
+/* Buttons */
+.btn {
+    border-radius: 5px;
+}
+
+/* DataTables Customization */
+.dataTables_wrapper .dataTables_length {
+    margin-bottom: 10px;
+}
+
+.dataTables_wrapper .dataTables_filter {
+    margin-bottom: 10px;
+}
+
+.dataTables_wrapper .dataTables_info {
+    padding-top: 10px;
+}
+
+.dataTables_wrapper .dataTables_paginate {
+    padding-top: 10px;
+}
+
+/* Badge styling */
+.badge {
+    font-size: 0.75rem;
+    padding: 0.25em 0.5em;
+}
+
+/* Form validation error text */
+.error-text {
+    font-size: 0.875rem;
+    color: #dc3545;
+}
+
+/* Modal customization */
+.modal-header {
+    background-color: #f8f9fa;
+    border-bottom: 1px solid #dee2e6;
+}
+
+.modal-footer {
+    border-top: 1px solid #dee2e6;
+}
+
+/* Table responsive */
+.table-responsive {
+    overflow-x: auto;
+}
